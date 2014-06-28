@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Locagram</string>
+    <string name="client_id">9cd13ec800244f7b9736f40d62d9d223</string>
+    <string name="title_activity_grid"></string>
+    <string name="image">Image</string>
+    <string name="search_location">Search Location</string>
+
+</resources>
